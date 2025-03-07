@@ -53,4 +53,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moath62how&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+### Competitive Programming
+
+<div align="left">
+  <a href="https://codeforces.com/profile/moa1h">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Codeforces_logo.svg/1024px-Codeforces_logo.svg.png" height="40" alt="Codeforces logo" />
+  </a>
+</div>
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/master/assets/codeforces-stats.png" height="150" alt="Codeforces stats" />
+</div>
+
+[View my Codeforces Profile](https://codeforces.com/profile/moa1h)
