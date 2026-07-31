@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moath Syam</h1>
-<h3 align="center">A Problem Solver, Back-End Developer, and a Software Tester</h3>
+<h3 align="center">A Problem Solver, Full-Stack Developer, and a Software Tester</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moath62how" alt="moath62how" /></a> </p>
 
